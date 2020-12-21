@@ -1,5 +1,10 @@
 # spam_wa
 
-Menggunakan python 3
-Contoh:
+# Clone project
+
+git clone https://RidhoCode01/spam_wa
+
+# install
+
+cd spam_wa
 python3 whatsapp.py
