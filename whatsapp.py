@@ -51,7 +51,7 @@ def inputan(driver):
   finally:
   	pass
  
- print('Success!!')
+ print('Berhasil!')
  time.sleep(1)	
 banner()
 main()
